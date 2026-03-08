@@ -32,6 +32,7 @@ students_data.json Score data
 # Additional Terms
 When you deploy Points List, you must retain the "Powered by Points List" text at the bottom, and the "Powered by Points List" text must link to https://github.com/nono1221/points-list.
 
+
 If you want to make API calls, please refer to [api.md](https://github.com/nono1221/points-list/blob/main/api.md)
 # points-list
 # 安装
