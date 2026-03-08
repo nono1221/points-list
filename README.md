@@ -1,6 +1,7 @@
 # points-list
 #安装
 1.请下载zip至本地，并进入目录
+
 2.确保已安装python运行
 ```cmd
 pip install -r requirements.txt
