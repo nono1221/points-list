@@ -34,6 +34,7 @@ When you deploy Points List, you must retain the "Powered by Points List" text a
 
 If you modify/extend the source code, you must also open source it under AGPL-3.0-or-later.
 
+If you want to make API calls, please refer to [api.md](https://github.com/nono1221/points-list/blob/main/api.md)
 # points-list
 # 安装
 1.请下载zip至本地，并进入目录
@@ -69,5 +70,7 @@ students_data.json 分数情况
 在您部署 Points List 时，需要保留底部的 Powered by Points List 字样，其中的 Powered by Points List 字样需指向 https://github.com/nono1221/points-list 链接。
 
 若您对源码做出修改/扩展，同样需要以 AGPL-3.0-or-later 开源
+
+如果想进行api调用请查阅[api.md](https://github.com/nono1221/points-list/blob/main/api.md)
 
 
